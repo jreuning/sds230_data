@@ -27,7 +27,7 @@ Bosnia and Herzegovina,31.2
 Botswana,4.1
 Brazil,8.3
 British Virgin Islands,0.8
-Brunei,1.4
+Brunei Darussalam,1.4
 Bulgaria,8.4
 Burkina Faso,0.9
 Burundi,2
@@ -41,10 +41,9 @@ Chad,1
 Channel Islands,14
 Chile,12.1
 China,3.6
-Christmas Island,0
 Colombia,10.1
 Comoros,1.5
-Congo,2.4
+"Congo, Rep.",2.4
 Costa Rica,10
 Croatia,13.7
 Cuba,2.1
@@ -70,10 +69,10 @@ Faroe Islands,9.9
 Fiji,0.5
 Finland,32.4
 France,19.6
-French Guiana,19.6
+Guyana,19.6
 French Polynesia,2.5
 Gabon,3.4
-Gambia,6.5
+"Gambia, The",6.5
 Georgia,10.1
 Germany,19.6
 Ghana,8
@@ -81,7 +80,6 @@ Gibraltar,4.1
 Greece,17.6
 Greenland,22.3
 Grenada,4.6
-Guadeloupe,8.5
 Guam,11.5
 Guatemala,12.1
 Guinea,1
@@ -100,7 +98,7 @@ Iraq,19.6
 Ireland,7.2
 Israel,6.7
 Italy,14.4
-Ivory Coast,4.4
+Cote d'Ivoire,4.4
 Jamaica,8.8
 Japan,0.3
 Jordan,18.7
@@ -109,8 +107,8 @@ Kenya,1.5
 Kiribati,0.8
 Kosovo,23.8
 Kuwait,16.7
-Kyrgyzstan,2.8
-Laos,3
+Kyrgyz Republic,2.8
+Lao PDR,3
 Latvia,10.5
 Lebanon,31.9
 Lesotho,4.8
@@ -167,11 +165,9 @@ Philippines,3.6
 Poland,2.5
 Portugal,21.3
 Puerto Rico,11.5
-Puntland,12.3
 Qatar,16.7
-Reunion,19.6
 Romania,2.6
-Russia,12.3
+Russian Federation,12.3
 Rwanda,0.5
 Saint Kitts and Nevis,3.4
 Saint Lucia,3.4
@@ -191,7 +187,7 @@ Sint Maarten,4.2
 Slovakia,6.5
 Slovenia,15.6
 Solomon Islands,0.2
-Somalia (South Central),12.4
+Somalia,12.4
 Somaliland,11.9
 South Africa,9.7
 South Korea,0.2
@@ -202,7 +198,7 @@ Sudan,6.6
 Suriname,15.9
 Sweden,23.1
 Switzerland,27.6
-Syria,8.2
+Syrian Arab Republic,8.2
 Taiwan,0
 Tajikistan,0.4
 Tanzania,0.8
@@ -212,7 +208,7 @@ Togo,0.8
 Tonga,8
 Trinidad and Tobago,3.2
 Tunisia,1.1
-Turkey,16.5
+Turkiye,16.5
 Turkmenistan,0.4
 Turks and Caicos Islands,3.3
 Tuvalu,1.2
@@ -224,8 +220,8 @@ United States,120.5
 Uruguay,34.7
 Uzbekistan,0.4
 Vanuatu,3.9
-Venezuela,18.5
-Vietnam,1.6
-Yemen,52.8
+"Venezuela, RB",18.5
+Viet Nam,1.6
+"Yemen, Rep.",52.8
 Zambia,0.9
 Zimbabwe,2.8
